@@ -1,0 +1,31 @@
+_repo: Literary-Taste-How-to-Form-It-With-Detailed-Instructions-for-Collecting-a-Complete-Library-of-__3640
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: "This eBook is taken from a 1914 re-printing of a 1909 edition.\r\nSee\
+  \ also: #13852 taken from a 1913 edition."
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading -- Great Britain'
+- !lcsh 'Book collecting -- Great Britain'
+- !lcsh 'Best books -- Great Britain'
+- !lcsh 'English literature -- Bibliography'
+- !lcc 'PN'
+title: "Literary Taste: How to Form It\r\nWith Detailed Instructions for Collecting\
+  \ a Complete Library of English Literature"
+url: http://www.gutenberg.org/ebooks/3640
