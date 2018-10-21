@@ -1,5 +1,5 @@
 _repo: Literary-Taste-How-to-Form-It-With-Detailed-Instructions-for-Collecting-a-Complete-Library-of-__3640
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,6 +32,7 @@ subjects:
 - !lcsh 'Best books -- Great Britain'
 - !lcsh 'English literature -- Bibliography'
 - !lcc 'PN'
+- GITenberg
 title: "Literary Taste: How to Form It\r\nWith Detailed Instructions for Collecting\
   \ a Complete Library of English Literature"
 url: http://www.gutenberg.org/ebooks/3640
